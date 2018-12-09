@@ -1,3 +1,5 @@
+[![Gzip Size](https://img.badgesize.io/https://unpkg.com/floatycss@1.0.0/floaty.css?compression=gzip)](https://unpkg.com/floatycss@1.0.0/floaty.css)
+
 <p align="center"><img src="logo.png" /></p>
 
 <h1 align="center"> Floaty </h1>
@@ -6,7 +8,7 @@
 
 <hr/>
 
-<p> Floaty is 0,6 Kb CSS layout solution with basic responsive layout and will work even in the older browsers. </p>
+<p> Floaty is 0,6 Kb(0,35 Kb gzip) CSS layout solution with basic responsive layout and will work even in the older browsers. </p>
 
 <p>
 I made 5 CSS layout solutions based on Flex and CSS GRID (<a href="https://github.com/vladocar/SMART-CSS-GRID">SMART CSS GRID</a>, <a href="https://github.com/vladocar/60gs">60 GS</a>, <a href="https://github.com/vladocar/flexy">Flexy</a>, <a href="https://github.com/vladocar/Katana">Katana</a>, <a href="https://github.com/vladocar/Flex-One">Flex One</a>)  this year and most common question is: will it work in IE.  
