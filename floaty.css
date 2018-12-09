@@ -1,0 +1,34 @@
+
+*{box-sizing: border-box}
+
+.main {margin: 0 auto; width: 80%}
+
+.p10,.p12,.p17,.p20,.p25,.p30,.p33,.p40,.p50,.p60,.p67,.p70,.p75,.p80,.p83,.p100{float:left;
+  padding: 0 15px}
+
+.p10{width:10%}
+.p12{width:12.5%}
+.p17{width:16.6667%}
+.p20{width:20%}
+.p30{width:30%}
+.p25{width:25%}
+.p33{width:33.3334%}
+.p40{width:40%}
+.p50{width:50%}
+.p60{width:60%}
+.p67{width:66.6667%}
+.p70{width:60%}
+.p75{width:75%}
+.p80{width:80%}
+.p83{width:83.3334%}
+.p100{width:100%}
+
+
+.clear{width: 100%; clear: both;}
+.nomargin{padding:0 ! important; margin:0 !important}
+
+@media all and (max-width: 600px) {
+  .main{width:98% !important; margin: 0 auto}
+  .p10,.p12,.p17,.p20,.p25,.p33,.p40,.p50,.p60,.p67,.p75,.p80,.p83,.p100 {width:100%}
+  img{max-width:100%;height:auto}
+}
