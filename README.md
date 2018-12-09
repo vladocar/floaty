@@ -36,6 +36,7 @@ $ npm i floatycss
 <link rel="stylesheet" href="https://unpkg.com/floatycss@1.0.0/floaty.css">
 ```
 
+Demo: https://vladocar.github.io/floaty/
 
 <h3>License</h3>
 
